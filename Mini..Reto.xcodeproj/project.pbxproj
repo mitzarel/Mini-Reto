@@ -47,6 +47,7 @@
 		2F40C89A1E692150004EB01B /* Mini..RetoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Mini..RetoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2F40C89E1E692150004EB01B /* Mini__RetoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mini__RetoUITests.swift; sourceTree = "<group>"; };
 		2F40C8A01E692150004EB01B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2F40C8AC1E6921DA004EB01B /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +78,7 @@
 		2F40C8721E692150004EB01B = {
 			isa = PBXGroup;
 			children = (
+				2F40C8AC1E6921DA004EB01B /* MyPlayground.playground */,
 				2F40C87D1E692150004EB01B /* Mini..Reto */,
 				2F40C8921E692150004EB01B /* Mini..RetoTests */,
 				2F40C89D1E692150004EB01B /* Mini..RetoUITests */,
